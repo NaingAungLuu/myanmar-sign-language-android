@@ -1,0 +1,460 @@
+{
+    "words": [
+        {
+            "title": "က",
+            "description": "အမည် - \"ကကြီး\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_ka_gyi_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_ka_kyi_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_ka_kyi_example_1",
+                "alphabet_ka_kyi_example_2",
+                "alphabet_ka_kyi_example_3"
+            ]
+        },
+        {
+            "title": "ခ",
+            "description": "အမည် - \"ခခွေး\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_kha_khwy_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_kha_khwy_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_kha_khwy_example_1",
+                "alphabet_kha_khwy_example_2",
+                "alphabet_kha_khwy_example_3"
+            ]
+        },
+        {
+            "title": "ဂ",
+            "description": "အမည် - \"ဂငယ်\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_ga_ngel_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_ga_ngel_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_ga_ngel_example_1",
+                "alphabet_ga_ngel_example_2",
+                "alphabet_ga_ngel_example_3"
+            ]
+        },
+        {
+            "title": "င",
+            "description": "အမည် - \"င\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_nga_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_nga_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_nga_example_1",
+                "alphabet_nga_example_2",
+                "alphabet_nga_example_3"
+            ]
+        },
+        {
+            "title": "စ",
+            "description": "အမည် - \"စလုံး\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_sa_lone_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_sa_lone_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_sa_lone_example_1",
+                "alphabet_sa_lone_example_2",
+                "alphabet_sa_lone_example_3"
+            ]
+        },
+        {
+            "title": "ဆ",
+            "description": "အမည် - \"ဆလိမ်\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_sa_lane_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_sa_lane_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_sa_lane_example_1",
+                "alphabet_sa_lane_example_2",
+                "alphabet_sa_lane_example_3"
+            ]
+        },
+        {
+            "title": "ဇ",
+            "description": "အမည် - \"ဇကွဲ\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_za_gwel_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_za_gwel_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_za_gwel_example_1",
+                "alphabet_za_gwel_example_2",
+                "alphabet_za_gwel_example_3"
+            ]
+        },
+        {
+            "title": "ည",
+            "description": "အမည် - \"ည\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_nya_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_nya_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_nya_example_1",
+                "alphabet_nya_example_2",
+                "alphabet_nya_example_3"
+            ]
+        },
+        {
+            "title": "တ",
+            "description": "အမည် - \"တဝမ်းပူ\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_ta_wun_pu_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_ta_wun_pu_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_ta_wun_pu_example_1",
+                "alphabet_ta_wun_pu_example_2",
+                "alphabet_ta_wun_pu_example_3"
+            ]
+        },
+        {
+            "title": "ထ",
+            "description": "အမည် - \"ထဆင်ထူး\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_hta_sin_du_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_hta_sin_du_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_hta_sin_du_example_1",
+                "alphabet_hta_sin_du_example_2",
+                "alphabet_hta_sin_du_example_3"
+            ]
+        },
+        {
+            "title": "ဒ",
+            "description": "အမည် - \"ဒထွေး\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_da_dway_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_da_dway_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_da_dway_example_1",
+                "alphabet_da_dway_example_2",
+                "alphabet_da_dway_example_3"
+            ]
+        },
+        {
+            "title": "ဓ",
+            "description": "အမည် - \"ဓအောက်ခြိုက်\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_da_out_chite_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_da_out_chite_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_da_out_chite_example_1",
+                "alphabet_da_out_chite_example_2",
+                "alphabet_da_out_chite_example_3"
+            ]
+        },
+        {
+            "title": "န",
+            "description": "အမည် - \"နငယ်\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_na_ngel_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_na_ngel_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_na_ngel_example_1",
+                "alphabet_na_ngel_example_2",
+                "alphabet_na_ngel_example_3"
+            ]
+        },
+        {
+            "title": "ပ",
+            "description": "အမည် - \"ပစောက်\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_pa_sout_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_pa_sout_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_pa_sout_example_1",
+                "alphabet_pa_sout_example_2",
+                "alphabet_pa_sout_example_3"
+            ]
+        },
+        {
+            "title": "ဖ",
+            "description": "အမည် - \"ဖဦးထုပ်\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_pha_oat_htote_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_pha_oat_htote_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_pha_oat_htote_example_1",
+                "alphabet_pha_oat_htote_example_2",
+                "alphabet_pha_oat_htote_example_3"
+            ]
+        },
+        {
+            "title": "ဗ",
+            "description": "အမည် - \"ဗထက်ခြိုက်\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_ba_htet_chite_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_ba_htet_chite_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_ba_htet_chite_example_1",
+                "alphabet_ba_htet_chite_example_2",
+                "alphabet_ba_htet_chite_example_3"
+            ]
+        },
+        {
+            "title": "ဘ",
+            "description": "အမည် - \"ဘကုန်း\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_ba_kone_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_ba_kone_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_ba_kone_example_1",
+                "alphabet_ba_kone_example_2",
+                "alphabet_ba_kone_example_3"
+            ]
+        },
+        {
+            "title": "မ",
+            "description": "အမည် - \"မ\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_ma_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_ma_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_ma_example_1",
+                "alphabet_ma_example_2",
+                "alphabet_ma_example_3"
+            ]
+        },
+        {
+            "title": "ယ",
+            "description": "အမည် - \"ယပက်လက်\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_ya_pat_let_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_ya_pat_let_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_ya_pat_let_example_1",
+                "alphabet_ya_pat_let_example_2",
+                "alphabet_ya_pat_let_example_3"
+            ]
+        },
+        {
+            "title": "ရ",
+            "description": "အမည် - \"ရကောက်\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_ya_kout_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_ya_kout_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_ya_kout_example_1",
+                "alphabet_ya_kout_example_2",
+                "alphabet_ya_kout_example_3"
+            ]
+        },
+        {
+            "title": "လ",
+            "description": "အမည် - \"လ\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_la_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_la_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_la_example_1",
+                "alphabet_la_example_2",
+                "alphabet_la_example_3"
+            ]
+        },
+        {
+            "title": "ဝ",
+            "description": "အမည် - \"ဝ\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_wa_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_wa_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_wa_example_1",
+                "alphabet_wa_example_2",
+                "alphabet_wa_example_3"
+            ]
+        },
+        {
+            "title": "သ",
+            "description": "အမည် - \"သ\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_tha_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_tha_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_tha_example_1",
+                "alphabet_tha_example_2",
+                "alphabet_tha_example_3"
+            ]
+        },
+        {
+            "title": "အ",
+            "description": "အမည် - \"အ\"",
+            "definition": {
+                "handSign": {
+                    "type": "GIF",
+                    "value": "alphabet_ah_hand_sign"
+                },
+                "alphabet": {
+                    "type": "IMAGE",
+                    "value": "alphabet_ah_example_1"
+                }
+            },
+            "examples" : [
+                "alphabet_ah_example_1",
+                "alphabet_ah_example_2",
+                "alphabet_ah_example_3"
+            ]
+        }
+    ]
+}

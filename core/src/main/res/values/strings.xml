@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Burmese Hand Sign</string>
+    <string name="nav_learn">Learn</string>
+    <string name="nav_dictionary">Dictionary</string>
+</resources>
