@@ -1,5 +1,4 @@
 # Burmese Sign Language App
----
 
 ## How to run
 1. Clone the project
@@ -10,5 +9,4 @@
 ![How to Run](/media/how_to_1.png)
 
 # Demo
----
-[Demo](/media/demo.mp4)
+[Demo](/media/demo.gif)
